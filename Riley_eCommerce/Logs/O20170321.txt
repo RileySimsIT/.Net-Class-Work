@@ -1,0 +1,6 @@
+3/21/2017 2:58:23 PM PayForOrder Starting Sales Transaction
+3/21/2017 2:58:23 PM PayForOrder Sales Transaction Completed for Customer 0
+3/21/2017 2:58:37 PM PayForOrder Starting Sales Transaction
+3/21/2017 2:58:37 PM PayForOrder Sales Transaction Completed for Customer 0
+3/21/2017 3:10:30 PM PayForOrder Starting Sales Transaction
+3/21/2017 3:10:30 PM PayForOrder 4.0 Not enough products
